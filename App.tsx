@@ -1,13 +1,5 @@
 import * as React from "react";
-import {
-  Animated,
-  Dimensions,
-  Image,
-  FlatList,
-  Text,
-  View,
-  StyleSheet,
-} from "react-native";
+import { Animated, Dimensions, Image, View, StyleSheet } from "react-native";
 import { StatusBar } from "expo-status-bar";
 
 const { width, height } = Dimensions.get("screen");
